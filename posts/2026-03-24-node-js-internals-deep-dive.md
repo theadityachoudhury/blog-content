@@ -1,3 +1,11 @@
+---
+title: "Node.js Internals Deep Dive"
+date: 2026-03-24
+description: "Async Context Tracking, Buffers, V8 Memory Model, Clusters — with real-world examples and interview Q&A."
+tags: [Node.js, JavaScript, Interview]
+draft: false
+---
+
 # Node.js Internals Deep Dive
 
 > Topics covered: Async Context Tracking, Buffers, V8 Memory Model, Clusters — with real-world examples and interview Q&A.
